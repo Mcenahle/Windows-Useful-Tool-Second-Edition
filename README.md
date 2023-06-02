@@ -10,5 +10,6 @@
 3、给《Windows实用程序（第二代）》提出改进意见。
 
 **有关链接：**
-- [新功能投票](https://github.com/Hex-Dragon/PCL2/discussions/2)：参加投票，开发者会优先处理票数较高的帖子！
+- [讨论](https://github.com/TyphoonCorporation/Windows-Useful-Tool-Second-Edition/discussions)：参与社区讨论！
+- [提交反馈](https://github.com/TyphoonCorporation/Windows-Useful-Tool-Second-Edition/issues)：提交软件反馈意见，或请求修复bug或添加新功能！
 - [程序下载](https://windows-useful-tools-development-center.fandom.com/zh/wiki/%E4%B8%8B%E8%BD%BD%E9%A1%B5)：下载最新内部开发版。
