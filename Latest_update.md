@@ -6,7 +6,7 @@
 
 修复了如下兼容性问题：
 
-1、“如你所知，当你使用了本软件，则代表你已经阅读并同意了《Windows Useful Tools Development Center软件许可条款》。”挡住了部分组框；
+1、“如你所知，当你使用了本软件，则代表你已经阅读并同意了《Windows Useful Tools Development Center软件许可条款》。”挡住了部分组框（#1）；
 
 2、“赞助链接”挡住了部分字。
 
