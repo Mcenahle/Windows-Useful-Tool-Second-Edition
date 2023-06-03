@@ -5,9 +5,9 @@
 
 1、获取《Windows实用程序（第二代）》的最新内部开发版；
 
-2、给《Windows实用程序（第二代）》进行新功能投票；
+2、给《Windows实用程序（第二代）》提交反馈；
 
-3、给《Windows实用程序（第二代）》提出改进意见。
+3、进行社区讨论。
 
 **有关链接：**
 - [讨论](https://github.com/TyphoonCorporation/Windows-Useful-Tool-Second-Edition/discussions)：参与社区讨论！
