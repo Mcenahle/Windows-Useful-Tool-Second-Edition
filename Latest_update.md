@@ -1,6 +1,8 @@
 # 《Windows 实用程序（第二代）内部开发版. 1.0.7.0》发布
 此更新于2023年6月3日发布。
 
+程序图片：![image](https://github.com/TyphoonCorporation/Windows-Useful-Tool-Second-Edition/assets/85427807/2c40c618-67ac-43a9-b54c-2ef692fc2edf)
+
 修复了如下兼容性问题：
 
 1、“如你所知，当你使用了本软件，则代表你已经阅读并同意了《Windows Useful Tools Development Center软件许可条款》。”挡住了部分组框；
