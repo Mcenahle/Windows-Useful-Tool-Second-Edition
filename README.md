@@ -1,7 +1,7 @@
 # 欢迎来到《Windows实用程序（第二代）》帮助与支持平台！
 如你所知，使用《Windows实用程序（第二代）》，则代表你已经阅读并同意了[《Windows Useful Tools Development Center软件许可条款》](https://windows-useful-tools-development-center.fandom.com/zh/wiki/%E4%B8%8B%E8%BD%BD%E9%A1%B5)。
 
-在现阶段（2023年6月2日-2023年7月17日），你可以：
+在现阶段（2023年6月2日- ），你可以：
 
 1、获取《Windows实用程序（第二代）》的最新内部开发版/最新内部测试版；
 
