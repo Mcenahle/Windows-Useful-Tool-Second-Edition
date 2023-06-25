@@ -9,6 +9,8 @@
 
 3、进行社区讨论。
 
+***注意：由于中国大陆的策略，我可能无法做到把最新版软件上传到这里。***
+
 **有关链接：**
 - [讨论](https://github.com/TyphoonCorporation/Windows-Useful-Tool-Second-Edition/discussions)：参与社区讨论！
 - [提交反馈](https://github.com/TyphoonCorporation/Windows-Useful-Tool-Second-Edition/issues)：提交软件反馈意见，或请求修复bug或添加新功能！
