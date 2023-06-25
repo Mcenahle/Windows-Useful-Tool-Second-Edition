@@ -1,17 +1,7 @@
-# 《Windows 实用程序（第二代）内部开发版. 1.0.12.0》发布
-此更新于2023年6月8日发布。
+# 《Windows 实用程序（第二代）内部测试版. 0.1.1.1》发布
+此更新于2023年6月24日发布。
 
-新增如下功能：
-
-1、文件下载（尚未开发完成。将在1.0.12.x上继续开发）；
-
-2、将程序设为开机自启动项目，并快速获知是否已经将程序设为开机自启动项。
-
-迁移了如下内容：
-
-将快照版/内部开发版提示迁移至初始化对话框。
-
-此版本**不提供**下载方式。
+此版本因程序过大，因此**不提供**下载方式。
 
 标准用户模式下的窗口截图：
-<img width="638" alt="屏幕截图 2023-06-08 191703" src="https://github.com/Mcenahle/Windows-Useful-Tool-Second-Edition/assets/85427807/e47068d5-f46d-4c8a-a6d6-0b67b3433912">
+<img width="690" alt="image" src="https://github.com/Mcenahle/Windows-Useful-Tool-Second-Edition/assets/85427807/2762f67c-732f-46e1-9943-00889de35ee7">
